@@ -1,0 +1,40 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+html{
+  background-color: #383838;
+}
+
+nav{
+  background-color: #2b2b2b;
+}
+
+header h1{
+  padding: 40px;
+  font-size: 2rem;
+  margin: 0px;
+  color: aliceblue;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.gallery{
+  width: 25%;
+  float: right;
+  padding: 30px;
+  margin: 15px;
+}
+
+.image{
+  width: 1000px;
+}
+
+.blogpost{
+  margin: 25px;
+  padding: 25px;
+  color: aliceblue;
+  font-family: 'Roboto Slab', serif;
+}
